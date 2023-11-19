@@ -1,0 +1,1 @@
+"docker compose up" running successfully
